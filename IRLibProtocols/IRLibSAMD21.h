@@ -134,7 +134,7 @@
   #endif
 #else //Other generic SAMD 21 boards 
   //Default is 9.
-  #define IR_SEND_PWM_PIN 9
+  #define IR_SEND_PWM_PIN 7
 #endif
 
 /*
